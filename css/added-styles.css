@@ -1,0 +1,11 @@
+body {
+	background-color: #212121 !important;
+}
+
+header.masthead {
+	background-position: center top !important;
+}
+
+.nav-item {
+	 text-shadow: 2px 2px 0px #000000;	
+}
